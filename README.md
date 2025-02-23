@@ -1,48 +1,59 @@
-# Hi there, I'm Anubhav 👋
+# Hi there, I'm Anubhav Sharma 👋  
 
-I'm a software developer with a passion for open-source projects and always eager to learn new things.
+I'm a **Software Engineer** with a passion for **AI, automation, and open-source projects**. With **8+ years of experience** in software development, test automation, and cloud-based applications, I specialize in building **scalable automation frameworks, optimizing CI/CD pipelines, and developing full-stack applications**. I enjoy solving challenging problems, contributing to open-source projects, and continuously learning new technologies.  
 
-## 🚀 About Me
+## 🚀 About Me  
 
-- 🔭 I’m currently working on AI projects which include YouTube and Instagram.
-- 🌱 I’m currently learning Next.js projects on Financial apps.
-- 🤔 I’m looking for help with [your_help_request]
-- 💬 Ask me about [topics_you_know_well]
-- 📫 How to reach me: Anubhav9287@gmail.com
+- 🔟 Currently working on **AI-driven projects** Personal involving **YouTube Shorts automation and Instagram content generation**.  
+- 🌱 Exploring **Next.js** and building **financial applications**.  
+- 💡 Experienced in **test automation, backend development, and scalable architectures**.  
+- 📌 Open to **collaborations** on open-source projects and **freelance opportunities**.  
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools  
 
-- Programming languages: Python, JavaScript, C#, and Java
-- Frameworks & Libraries:
-  - TensorFlow
-  - MongoDB
-  - Laravel
-  - React
-  - Node.js
-  - Express
-  - SQLite
-  - Create React App
-  - Babel
+### **Programming Languages**  
+- **Python** | **JavaScript** | **Java** | **C#** | **SQL**  
 
-## 📂 Repositories
+### **Frameworks & Libraries**  
+- **Backend**: Spring Boot, Django, Node.js, Express, Flask  
+- **Frontend**: React.js, Next.js, Vue.js, Bootstrap  
+- **Databases**: MongoDB, SQLite, Redis, Apache Spark  
+- **AI & ML**: TensorFlow, NumPy, OpenCV  
+- **Testing & Automation**: Selenium, PyTest, TestNG, Cucumber, REST Assured  
+- **DevOps & Cloud**: AWS, Azure, Google Cloud, Jenkins, Docker, CI/CD  
 
-Here are some of my notable repositories:
+## 🐂 Notable Repositories  
 
-- [academic-projects](https://github.com/Anubhav9287/academic-projects): This contains projects related to: Neural Networks, Mongo DB, PHP, Design and Analysis of Algorithms.
-- [adbaws](https://github.com/Anubhav9287/adbaws): [No description provided]
-- [Andorid_App_Crud_Operations](https://github.com/Anubhav9287/Andorid_App_Crud_Operations): SQLITE Crud Operations in Android App
-- [APITestingFramework](https://github.com/Anubhav9287/APITestingFramework): This is a Java custom framework for API testing. In this project I have used two RAPID APIs for testing. You can easily pull this code and start using it.
-- [CodingConceptsPrograms](https://github.com/Anubhav9287/CodingConceptsPrograms): LeetCode Concepts Questions
-- [Company_Coding_Practice](https://github.com/Anubhav9287/Company_Coding_Practice): Here Various Company Coding questions solution can be found
-- [CrackingTheCodeingInterview](https://github.com/Anubhav9287/CrackingTheCodeingInterview): This contains all chapter wise solutions as per the book require.
+- [**academic-projects**](https://github.com/Anubhav9287/academic-projects) - Projects on **Neural Networks, MongoDB, PHP, and Algorithms**.  
+- [**Portfolio Management API**](https://github.com/Anubhav9287) - A **Spring Boot microservice** for managing investments, optimized for **MongoDB queries** and **caching**.  
+- [**APITestingFramework**](https://github.com/Anubhav9287/APITestingFramework) - Custom **Java API testing framework** using **RAPID APIs**.  
+- [**CrackingTheCodingInterview**](https://github.com/Anubhav9287/CrackingTheCodeingInterview) - Solutions for **Cracking the Coding Interview** book.  
+- [**CodingConceptsPrograms**](https://github.com/Anubhav9287/CodingConceptsPrograms) - LeetCode **conceptual coding problems**.  
 
-> **Note:** The above list may be incomplete. For more repositories, [click here](https://github.com/Anubhav9287?tab=repositories).
+💡 *More repositories available* ➔ [**GitHub Profile**](https://github.com/Anubhav9287?tab=repositories)  
 
-## 📈 GitHub Stats
 
-![Anubhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anubhav9287&show_icons=true&theme=radical)
+## 📚 Featured Projects  
 
-## 📫 Contact Me
+### **End-to-End Image Classifier Development**  
+🔹 **Tech Stack**: Python, Flask, NumPy, Bootstrap  
+🔹 **Description**: Built a **full-stack AI image classifier** with data collection, model training, fine-tuning, and deployment in a live web application.  
 
-- [LinkedIn](https://www.linkedin.com/in/anubhavsharma26/)
-- [Email](Anubhav9287@gmail.com)
+### **Algorithm Performance Measure**  
+🔹 **Tech Stack**: Python, Flask, Bootstrap  
+🔹 **Description**: Designed a **real-time sorting algorithm performance comparison** tool (selection, insertion, quick, heap).  
+
+### **Investment Calculator**  
+🔹 **Tech Stack**: Python, Django, SQLite  
+🔹 **Description**: Developed a **web-based financial calculator** for forecasting investment growth with real-time API data integration.  
+
+### **Migration Data Validator**  
+🔹 **Tech Stack**: Java, Apache Spark, Vue.js, Bootstrap, MongoDB  
+🔹 **Description**: Built an industry-grade tool to **validate and verify large-scale data migration** across databases.  
+
+## 💌 Contact Me  
+
+📩 **Email**: [asharma.careers@gmail.com](mailto:asharma.careers@gmail.com)  
+💼 **LinkedIn**: [linkedin.com/in/anubhavsharma26](https://www.linkedin.com/in/anubhavsharma26)  
+🌐 **Portfolio**: [anubhav9287.github.io](https://anubhav9287.github.io/)  
+
